@@ -33,3 +33,6 @@ O projeto utiliza as tecnologias fundamentais da web para garantir que a surpres
 ## ⚙️ Como Executar o Projeto
 
 Por ser uma página estática, basta abrir o arquivo `index.html` em seu navegador para ver a surpresa em ação.
+
+créditos: https://t.me/the_coding_wizard
+
