@@ -1,8 +1,4 @@
-Para deixar o seu README ainda mais especial e explicar o contexto sentimental do projeto, vamos adicionar uma seção de **Propósito** ou **Dedicatória**.
 
-Aqui está a versão atualizada do seu arquivo **README.md**:
-
----
 
 # 💌 Projeto "Minha Gatinha" - Carta Virtual
 
