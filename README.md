@@ -14,7 +14,7 @@ Este projeto nasceu do desejo de fazer uma surpresa única. Diferente de uma car
 
 ## 🚀 Demonstração
 
-**[Veja a surpresa online aqui!](https://www.google.com/search?q=https://spi-alex.github.io/p-ela/)**
+**[Veja a surpresa online aqui!](https://spi-alex.github.io/p-ela/)**
 
 ## 🛠️ Tecnologias Utilizadas
 
